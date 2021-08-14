@@ -1,4 +1,4 @@
-# simple_mini
+# mp_simple
 
 simple 小程序采用原生小程序编写
 
